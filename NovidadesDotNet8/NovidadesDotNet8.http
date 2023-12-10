@@ -1,0 +1,6 @@
+@NovidadesDotNet8_HostAddress = http://localhost:5037
+
+GET {{NovidadesDotNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
