@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NovidadesDotNet8", "NovidadesDotNet8\NovidadesDotNet8.csproj", "{0BD002D8-2120-4034-A3A6-D88713095ACF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fiap-Aula1-NovidadesDotNet8", "Fiap-Aula1-NovidadesDotNet8\Fiap-Aula1-NovidadesDotNet8.csproj", "{0BD002D8-2120-4034-A3A6-D88713095ACF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula1", "Aula1", "{68E652A7-2213-4CFF-88EB-8AC872226F18}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula2", "Aula2", "{4BF471DA-CFBF-4076-BB78-AD6188D9F2C7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NovidadesCSharp12", "NovidadesCSharp12\NovidadesCSharp12.csproj", "{C0148926-EA13-4A50-96BC-1EA80CF73179}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fiap-Aula1-NovidadesCSharp12", "Fiap-Aula1-NovidadesCSharp12\Fiap-Aula1-NovidadesCSharp12.csproj", "{C0148926-EA13-4A50-96BC-1EA80CF73179}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap-Aula2-CadastroAlunosAPI", "Fiap-Aula2-CadastroAlunosAPI\Fiap-Aula2-CadastroAlunosAPI.csproj", "{E37B4824-1477-4C8B-8B70-FAF97C0F6F88}"
 EndProject
