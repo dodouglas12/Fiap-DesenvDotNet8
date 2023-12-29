@@ -1,0 +1,6 @@
+@Fiap_Aula9_TrabalhandoCache_HostAddress = http://localhost:5005
+
+GET {{Fiap_Aula9_TrabalhandoCache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@Fiap_Aula7_PersistenciaBD_HostAddress = http://localhost:5072
+
+GET {{Fiap_Aula7_PersistenciaBD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
