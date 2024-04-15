@@ -32,7 +32,7 @@ namespace Fiap_Aula9_TrabalhandoCache.Services
 
             if (valor is null)
             {
-                cache.Set("ValorCache", $"Retornado do Cache {VALOR_INSERIR_CACHE}");
+                cache.Set("ValorCache", $"Retornado do Cache {VALOR_INSERIR_CACHE}", options);
                 return VALOR_INSERIR_CACHE;
             }
 
